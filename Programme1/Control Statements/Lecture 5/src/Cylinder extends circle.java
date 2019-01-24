@@ -1,0 +1,3 @@
+class Cylinder extends circle{
+	
+}
